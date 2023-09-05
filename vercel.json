@@ -1,0 +1,17 @@
+{
+    "trailingSlash": false,
+    "redirects": [
+        { "source": "/about-us", "destination": "/about" },
+        { "source": "/frequently-asked-questions", "destination": "/faqs" },
+        { "source": "/contact-us", "destination": "/contact" },
+        { "source": "/automobile-accidents/types-of-cases", "destination": "/automobile-accidents" },
+        { "source": "/automobile-accidents/facts-and-statistics", "destination": "/automobile-accidents" },
+        { "source": "/automobile-accidents/how-we-can-help", "destination": "/automobile-accidents" },
+        { "source": "/wrongful-death/types-of-cases", "destination": "/wrongful-death" },
+        { "source": "/wrongful-death/facts-and-statistics", "destination": "/wrongful-death" },
+        { "source": "/wrongful-death/how-we-can-help", "destination": "/wrongful-death" },
+        { "source": "/premises-liability/types-of-cases", "destination": "/premises-liability" },
+        { "source": "/premises-liability/facts-and-statistics", "destination": "/premises-liability" },
+        { "source": "/premises-liability/how-we-can-help", "destination": "/premises-liability" }
+    ]
+}
